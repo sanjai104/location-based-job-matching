@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PartTime Job Matcher</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="role">Role</string>
+    <string name="student">Student</string>
+    <string name="provider">Provider</string>
+    <string name="home">Home</string>
+    <string name="jobs">Jobs</string>
+    <string name="messages">Messages</string>
+    <string name="profile">Profile</string>
+    <string name="apply">Apply</string>
+    <string name="post_job">Post Job</string>
+    <string name="my_applications">My Applications</string>
+    <string name="location_permission_required">Location permission is required for this feature</string>
+    <string name="base_url">http://10.0.2.2:8080</string>
+</resources>
+
+

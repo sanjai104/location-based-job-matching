@@ -1,0 +1,41 @@
+# OS / System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.cursor/
+.idea/
+*.iml
+
+# Android build/cache
+android/.gradle/
+android/**/build/
+android/local.properties
+android/.idea/
+
+# Backend build outputs
+backend/target/
+backend/build/
+backend/.gradle/
+
+# Logs
+*.log
+
+# Secrets / env
+.env
+.env.*
+backend/.env
+
+# Sensitive Spring configs (push example only)
+backend/src/main/resources/application.properties
+backend/src/main/resources/application.yml
+backend/src/main/resources/application-*.properties
+backend/src/main/resources/application-*.yml
+
+# Keys
+*.jks
+*.keystore
+*.p12
+*.pem
