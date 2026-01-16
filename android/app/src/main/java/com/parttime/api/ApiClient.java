@@ -12,7 +12,8 @@ import retrofit2.converter.gson.GsonConverterFactory;
 import java.util.concurrent.TimeUnit;
 
 public class ApiClient {
-    private static final String BASE_URL = "http://192.168.68.51:8080/";
+    private static final String BASE_URL = "http://192.168.68.54:8080/";
+
     private static Retrofit retrofit = null;
     private static Context appContext;
     
